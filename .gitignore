@@ -1,0 +1,5 @@
+# Singularity images.
+*.sif
+
+# Installation files.
+MotionCor2_1.2.6*
